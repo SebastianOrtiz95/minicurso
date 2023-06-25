@@ -1,2 +1,2 @@
 # minicurso
-mi primer repo
+mi primer repo de prueba
